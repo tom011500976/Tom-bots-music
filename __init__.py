@@ -1,3 +1,1 @@
-from cache.admins import admins, get, set
-
-__all__ = ["admins", "get", "set"]
+__version__ = "0.6.0"
