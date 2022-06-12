@@ -90,7 +90,7 @@ python3 main.py # run the bot.
 
 # Credits 💖
 
-- [Tom](https://github.com/tom011500976) ``Dev``
+- [Tom](https://github.com/tom011500976/Tom-bots-music) ``Dev``
 - [Zxce3](https://github.com/Zxce3) ``Dev``
 - [DoellBarr](https://github.com/DoellBarr) ``Dev``
 - [tofikdn](https://github.com/tofikdn) ``Dev``
